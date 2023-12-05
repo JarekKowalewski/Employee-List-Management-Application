@@ -6,10 +6,10 @@ export const Footer = () => {
   return (
     <footer className="footer dark:bg-slate-800">
       <div className="social-media">
-        <a href="https://www.facebook.com/brlltman/"><AiFillFacebook className="footer-icons"/></a>
-        <a href="https://www.linkedin.com/in/oleh-semenets/"><AiFillLinkedin className="footer-icons"/></a> 
-        <a href="https://www.instagram.com/brlltman/"><AiOutlineInstagram className="footer-icons"/></a> 
-        <a href="https://github.com/osemenets21"><AiFillGithub className="footer-icons github-ico"/></a> 
+        <a href="https://https://www.facebook.com/jarek.kowalewski.3/"><AiFillFacebook className="footer-icons"/></a>
+        <a href="https://www.https://www.linkedin.com/in/jaroslawkowalewski/"><AiFillLinkedin className="footer-icons"/></a> 
+        <a href="https://www.instagram.com/j_yesterday/"><AiOutlineInstagram className="footer-icons"/></a> 
+        <a href="https://github.com/JarekKowalewski"><AiFillGithub className="footer-icons github-ico"/></a> 
       </div>
       <div className="footer-text">© Warsaw, Poland</div>
     </footer>
